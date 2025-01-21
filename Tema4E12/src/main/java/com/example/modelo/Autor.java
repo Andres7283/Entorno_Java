@@ -20,7 +20,7 @@ public class Autor {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
 	
-	// modificado 
+	// modificado x2
 	@Column
 	private String nombre;
 	
