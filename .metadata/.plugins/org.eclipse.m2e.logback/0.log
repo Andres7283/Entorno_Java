@@ -44,3 +44,36 @@
 2025-01-21 15:37:07,592 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-01-21 15:37:07,612 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-01-21 15:37:07,617 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e13\src\test\resources
+2025-01-21 15:41:39,478 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-21 15:41:42,276 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:42,287 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:42,291 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e01\src\test\resources
+2025-01-21 15:41:43,414 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:43,424 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:43,429 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e02\src\test\resources
+2025-01-21 15:41:44,179 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:44,187 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:44,190 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e09\src\test\resources
+2025-01-21 15:41:44,945 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:44,957 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:44,962 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e11\src\test\resources
+2025-01-21 15:41:45,627 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:45,636 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:45,640 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e12\src\test\resources
+2025-01-21 15:41:46,398 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:46,408 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:46,412 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e13\src\test\resources
+2025-01-21 15:41:48,313 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: e02:e_14:0.0.1-SNAPSHOT @ C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e14\pom.xml.
+2025-01-21 15:41:48,824 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:48,840 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:48,845 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e14\src\test\resources
+2025-01-21 15:41:49,195 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:49,197 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:49,199 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\e14\src\test\resources
+2025-01-21 15:41:50,143 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:practica:0.0.1-SNAPSHOT @ C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\practica\pom.xml.
+2025-01-21 15:41:50,940 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:50,956 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:50,959 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\practica\src\test\resources
+2025-01-21 15:41:52,262 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-21 15:41:52,264 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-21 15:41:52,267 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\agarcia7283\OneDrive - Fundación Universitaria San Pablo CEU\Segundo Curso\Escritorio\Ent.Serv\JAVA\Spring\practica\src\test\resources
