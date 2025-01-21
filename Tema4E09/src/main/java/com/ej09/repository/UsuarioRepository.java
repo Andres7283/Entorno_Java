@@ -4,7 +4,6 @@ import java.util.List;
 
 import org.springframework.stereotype.Repository;
 
-import com.ej09.model.Perfil;
 import com.ej09.model.Usuario;
 
 @Repository

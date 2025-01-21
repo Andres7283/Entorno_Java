@@ -40,7 +40,7 @@ public class HotelController {
 	@GetMapping("/estrellas/{min}/{max}")
 	public ResponseEntity<List<Hotel>> obtenerHotelesEnRango(@PathVariable int min , @PathVariable int max){
 		
-		List<Hotel> rangoHoteles = service.obtenerHotelesEnRango(min , max);
+		
 		return null;
 		
 		

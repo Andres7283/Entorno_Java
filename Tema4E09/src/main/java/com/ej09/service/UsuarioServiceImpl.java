@@ -3,14 +3,12 @@ package com.ej09.service;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import com.ej09.model.Perfil;
 import com.ej09.model.Usuario;
 import com.ej09.repository.UsuarioRepository;
 
-import jakarta.persistence.EntityManager;
 import jakarta.transaction.Transactional;
 
 @Service
