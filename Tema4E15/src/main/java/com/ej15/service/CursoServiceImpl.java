@@ -21,6 +21,19 @@ public class CursoServiceImpl implements CursoService{
 		cursoRepositoryImpl.crearCurso(nuevoCurso);
 	}
 	
+	/*@Override
+	public void agregarEstudiante(int Curso ,Estudiante nuevoEstudiante) {
+		Curso curso = getCursoPorId(Curso);
+		if (curso != null) {
+			if (!curso.getEstudiantes().contains(nuevoEstudiante)) {
+				nuevoEstudiante.getCursos().add(curso);
+				
+				curso.add(nuevoEstudiante);
+				nuevoEstudiante.getCursos();
+			}
+		}
+	}*/
+	
 	@Override
 	@Transactional
 	public List<Curso> getTodosCursos(){
