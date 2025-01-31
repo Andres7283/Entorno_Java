@@ -5,14 +5,23 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1 th:text="${mensaje}">Texto por defecto</h1>
+	<h1 th:text="${mensaje}"></h1>
 	
-	<p th:text="'Hola' + ', ' + ${nombre1}">Nombre</p>
+	<p th:text="'Hola' + ', ' + ${nombre1}"></p>
 	
-	<p th:text="${nombre2}">con Text</p>
-	<p th:utext="${nombre2}">con Text</p>
+	<p th:text="${nombre2}"> </p>
+	<p th:utext="${nombre2}"> </p>
 	
 	<img alt="Pizza" th:src="${imagen}">
 	
+	<a th:href="@{/index}">Ir a index</a>
+	
+	<p th:if="${role} == 'admin'">Admin</p>
+	
+	<ul>
+ 		<li th:each="nombre : ${persona}" th:text="${nombre}"></li>
+	</ul>
+	
+	<a th:href="@{/form}">Ir al form</a>
 </body>
 </html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Form.html</h1>
+	<form th:object="${user}" th:action="@{/guardar}" method="post">
+		<label>
+			Nombre: <input type="text" th:field="*{nombre}"> 
+		</label>	
+		<br>
+		<br>
+		<label>
+			Edad: <input type="text" th:field="*{edad}"> 
+		</label>
+		<br>
+		<br>
+		<button type="submit">Enviar</button>
+	</form>
+</body>
+</html>
