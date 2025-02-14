@@ -5,6 +5,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
+	<ul>
+		<li th:each="nombre : ${listaUsuarios}" th:text="${nombre}"></li>
+	</ul>
 </body>
 </html>
