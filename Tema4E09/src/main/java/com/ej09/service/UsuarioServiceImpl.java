@@ -40,6 +40,7 @@ public class UsuarioServiceImpl implements UsuarioService {
 		Usuario usuario = clienteRepository.getUsuarioById(id);
 		if (usuario != null) {
 			clienteRepository.deleteUsuario(usuario);
+			
 			return true;
 		}
 		return false;

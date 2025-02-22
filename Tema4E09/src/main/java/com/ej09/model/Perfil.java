@@ -17,6 +17,7 @@ public class Perfil {
 
 	@Column
 	private String bio;
+	
 	@Column
 	private String estado;
 
